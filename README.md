@@ -1,1 +1,1 @@
-# word2vec-simpsons
+# Word2Vec - The Simpsons (Character Lines)
